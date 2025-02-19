@@ -4,7 +4,7 @@
 
 This project is a comprehensive sales dashboard for a coffee shop, built using Power BI. It's designed to provide actionable insights into sales trends, customer behavior, and product performance, ultimately empowering data-driven decisions to optimize operations and boost profitability.  The dashboard is intended for use by store managers, owners, and marketing teams.
 
-![dashboard preview](./Pictures/dashboard.gif)
+![dashboard preview](./pictures/dashboard.gif)
 
 Here is a google drive link to access the dashboard itself, and the data : [drive/folder...](https://drive.google.com/drive/folders/1nTyEOqkOe5N3FmEjhlSLkFSyxS9ELOn2?usp=sharing). .
 The dashboard offers a high-level overview of key performance indicators (KPIs) and allows users to drill down into specific areas of interest through interactive visualizations. It aims to answer questions like:
