@@ -17,6 +17,8 @@ The dashboard offers a high-level overview of key performance indicators (KPIs) 
 
 ## Key Features
 
+In the google drive folder i've just give previously there's a power point file that summarize all this field, you can go on and check it.
+
 *   **Executive Summary:**
     *   Overall sales revenue, profit margin, and customer count.
     *   Month-over-month and year-over-year growth trends.
