@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a comprehensive sales dashboard for a coffee shop, built using Power BI. It's designed to provide actionable insights into sales trends, customer behavior, and product performance, ultimately empowering data-driven decisions to optimize operations and boost profitability.  The dashboard is intended for use by store managers, owners, and marketing teams.
+This project is a comprehensive sales dashboard for a coffee shop, built using Power BI. It's designed to provide actionable insights into sales trends,or product performance, ultimately empowering data-driven decisions to optimize operations and boost profitability.  The dashboard is intended for use by store managers, owners, and marketing teams of the shop.
 
 ![dashboard preview](./pictures/dashboard.gif)
 
