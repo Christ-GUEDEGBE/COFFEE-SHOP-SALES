@@ -43,11 +43,4 @@ In the google drive folder i've just give previously there's a power point file 
     *   Drill-down capabilities to explore specific data points in greater detail.
     *   Customizable views to focus on the metrics that are most important to each user.
 
-## Contributing
 
-We welcome contributions to improve this dashboard! If you have ideas for new features, visualizations, or data sources, please submit a pull request.
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them with descriptive messages.
-4.  Submit a pull request to the main branch.
